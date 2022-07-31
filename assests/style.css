@@ -10,3 +10,18 @@ body {
     font-family: 'Hind Siliguri', sans-serif;
     color: #3a3a3a;
 }
+
+/*headings and logo*/
+
+.text-center {
+    text-align: center;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+#logo {
+    margin: 10px;
+}
