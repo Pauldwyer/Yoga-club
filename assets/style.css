@@ -9,6 +9,8 @@
 body {
     font-family: 'Hind Siliguri', sans-serif;
     color: #3a3a3a;
+    background-color: #DBD1C2;
+
 }
 
 /*headings and logo*/
@@ -59,5 +61,5 @@ h1, h2 {
 /* about us */
 
 #about-us {
-    text-align: center;
+    font-size: 140%;
 }
