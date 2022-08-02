@@ -26,6 +26,11 @@ h2 {
     font-size: 280%;
 }
 
+h3 {
+    letter-spacing: 4px;
+    font-size: 200%;
+}
+
 #logo {
     margin: 10px;
 }
