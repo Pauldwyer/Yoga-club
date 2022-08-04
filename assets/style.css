@@ -24,6 +24,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-size: 280%;
+    
 }
 
 h3 {
@@ -33,6 +34,7 @@ h3 {
 
 #logo {
     margin: 10px;
+    font-size: 280%;
 }
 
 /* nav bar */
@@ -67,8 +69,28 @@ h3 {
 /* about us */
 
 #about-us {
-    font-size: 140%;
+    font-size: 130%;
 }
+
+/* types of yoga we teach */
+
+.yoga-types {
+
+}
+
+.yin-yoga {
+
+}
+
+.hatha-yoga {
+
+}
+
+.gentle-yoga {
+    
+}
+
+
 
 /* tutorials */
 .container {
