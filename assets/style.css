@@ -108,7 +108,7 @@ h3 {
 
 .text {
     background-color: #3a3a3a;
-    color: white;
+    color: #112A46;
     font-size: 16px;
     padding: 16px 32px;
 }
@@ -131,7 +131,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 1%;
-    color: #3a3a3a;
+    color: #112A46;
 }
 
 #footer-text {
