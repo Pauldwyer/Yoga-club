@@ -75,19 +75,28 @@ h3 {
 /* types of yoga we teach */
 
 .yoga-types {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
 
 }
 
 .yin-yoga {
-
+    padding: 10px;
+    flex: 20%;
 }
 
 .hatha-yoga {
+    padding: 10px;
+    flex: 20%;
 
 }
 
 .gentle-yoga {
-    
+    padding: 10px;
+    flex: 20%;
+
 }
 
 
