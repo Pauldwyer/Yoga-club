@@ -108,7 +108,7 @@ h3 {
 
 .text {
     background-color: #3a3a3a;
-    color: #112A46;
+    color: white;
     font-size: 16px;
     padding: 16px 32px;
 }
@@ -175,6 +175,10 @@ footer {
     position: absolute;
     left: 10%;
     padding: 30px;
+}
+
+::placeholder {
+    color: #fafafa;
 }
 
 .signup-form > h2 {
