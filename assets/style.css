@@ -213,14 +213,7 @@ footer {
     position: absolute;
     left: 10%;
     padding: 30px;
-    font-family: 'Hind Siliguri', sans-serif;
 }
-
-/*
-::placeholder {
-    color: #fafafa;
-}
-*/
 
 .signup-form > h2 {
     color: #fafafa;
