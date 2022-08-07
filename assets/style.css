@@ -108,6 +108,21 @@ h3 {
     justify-content: center;
 }
 
+/* timetable */
+
+#class-times {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.times-container {
+    text-align: center;
+    margin-top: 25px;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 /* tutorials */
 .container {
     position: relative;
