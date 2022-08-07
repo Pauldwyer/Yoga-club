@@ -69,7 +69,7 @@ h3 {
 /* about us */
 
 #about-us {
-    /*font-size: 130%; */
+    margin-top: 25px;
     
 }
 
@@ -77,7 +77,7 @@ h3 {
 
 #yoga-types {
     text-align: center;
-
+    margin-top: 25px;
 }
 
 .type-container {
@@ -93,6 +93,11 @@ h3 {
 .type-container > div {
     width: 350px;
     height: 250px;
+}
+
+#yoga-types ul {
+    text-decoration: none;
+    list-style: none;
 }
 
 /*---youtube video---*/
