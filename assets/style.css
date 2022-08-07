@@ -94,26 +94,16 @@ h3 {
     width: 350px;
     height: 250px;
 }
-/*
-.yin-yoga {
-    padding: 10px;
-    flex: 20%;
+
+/*---youtube video---*/
+
+.youtube-container {
+    text-align: center;
+    margin-top: 25px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
 }
-
-.hatha-yoga {
-    padding: 10px;
-    flex: 20%;
-
-}
-
-.gentle-yoga {
-    padding: 10px;
-    flex: 20%;
-
-}
-
-*/
-
 
 /* tutorials */
 .container {
