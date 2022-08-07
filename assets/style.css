@@ -23,13 +23,13 @@ h1,
 h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
-    font-size: 280%;
+    /*font-size: 280%;*/
     
 }
 
 h3 {
     letter-spacing: 4px;
-    font-size: 200%;
+    /*font-size: 200%; */
 }
 
 #logo {
@@ -69,19 +69,32 @@ h3 {
 /* about us */
 
 #about-us {
-    font-size: 130%;
+    /*font-size: 130%; */
+    
 }
 
 /* types of yoga we teach */
 
-.yoga-types {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 30px;
+#yoga-types {
     text-align: center;
 
 }
 
+.type-container {
+    text-align: center;
+    margin-top: 25px;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.type-container > div {
+    width: 350px;
+    height: 250px;
+}
+/*
 .yin-yoga {
     padding: 10px;
     flex: 20%;
@@ -99,6 +112,7 @@ h3 {
 
 }
 
+*/
 
 
 /* tutorials */
