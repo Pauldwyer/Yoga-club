@@ -111,14 +111,17 @@ h3 {
 /* timetable */
 
 #class-times {
-    text-align: center;
     margin-top: 25px;
 }
 
+.left-margin {
+    margin-left: 10%;
+}
+
 .times-container {
-    text-align: center;
-    margin-top: 25px;
-    height: 400px;
+    background-color: #ffeab2;
+    width: 80%;
+    margin: auto;
     display: flex;
     justify-content: space-evenly;
 }
