@@ -13,7 +13,7 @@ body {
 
 }
 
-/*headings and logo*/
+/*---headings and logo---*/
 
 .text-center {
     text-align: center;
@@ -38,7 +38,7 @@ h3 {
     font-size: 280%;
 }
 
-/* nav bar */
+/* ---nav bar ---*/
 
 #menu {
     letter-spacing: 4px;
@@ -59,7 +59,7 @@ h3 {
     border-bottom: 1px solid #3a3a3a
 }
 
-/* hero image */
+/* ---hero image--- */
 
 #hero-image {
     width: 100%;
@@ -67,14 +67,14 @@ h3 {
     background: url(../assets/images/STUDIO_VIEW_01.jpg) no-repeat center center;
 }
 
-/* about us */
+/* ---about us--- */
 
 #about-us {
     margin-top: 25px;
     
 }
 
-/* types of yoga we teach */
+/* ---types of yoga we teach--- */
 
 #yoga-types {
     text-align: center;
@@ -82,7 +82,7 @@ h3 {
 }
 
 .type-container {
-    text-align: center;
+    text-align: left;
     margin-top: 25px;
     height: 300px;
     display: flex;
@@ -109,7 +109,7 @@ h3 {
     justify-content: center;
 }
 
-/* timetable */
+/* ---timetable ---*/
 
 #class-times {
     margin-top: 25px;
@@ -120,14 +120,14 @@ h3 {
 }
 
 .times-container {
-    background-color: #ffeab2;
+    background-color: #e4be9e;
     width: 80%;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
 }
 
-/* tutorials */
+/* ---tutorials--- */
 .container {
     position: relative;
     width: 100%;
@@ -170,7 +170,7 @@ h3 {
     padding: 16px 32px;
 }
 
-/* footer */
+/* ---footer ---*/
 
 footer {
     height: 150px;
@@ -201,7 +201,7 @@ footer {
     text-decoration: none;
 }
 
-/*gallery */
+/*---gallery ---*/
 
 #photos {
     clear: both;
@@ -214,7 +214,7 @@ footer {
     width: 100%;
 }
 
-/* contact us */
+/* ---contact us ---*/
 
 .form-section {
     clear: left;
@@ -250,7 +250,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #8b867a;
 }
 
 .join-button {
@@ -259,13 +259,13 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: #8b867a;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #8b867a;
 }
 
