@@ -189,7 +189,7 @@ h2 {
     padding: 16px 32px;
 }
 
-/* ---footer ---*/
+/* ---footer ---credit to love running */
 
 footer {
     height: 150px;
@@ -291,4 +291,13 @@ footer {
 /* media queries */
 
 /* for larger to medium screens */
-@media screen and (max-width: 1200px) {}
+@media screen and (max-width: 800px) {
+    .type-container {
+        flex-direction: column;
+        height: 1200px;
+        align-items: center;
+        width: 100%;
+        margin-top: -100px;
+    }
+
+}
