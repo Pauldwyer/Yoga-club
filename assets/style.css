@@ -294,10 +294,18 @@ footer {
 @media screen and (max-width: 800px) {
     .type-container {
         flex-direction: column;
-        height: 1200px;
+        height: 600px;
         align-items: center;
         width: 100%;
-        margin-top: -100px;
+        margin-top: 10px;
     }
 
+}
+
+@media screen and (max-width: 800px) {
+    
+    #photos {
+        column-count: 2;
+    }
+    
 }
