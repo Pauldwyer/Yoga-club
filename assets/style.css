@@ -15,7 +15,6 @@ body {
 
 hr {
     display: block;
-    
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
@@ -32,15 +31,9 @@ hr {
 
 h1,
 h2 {
+    letter-spacing: 2px;
+    font-size: 1.5em;
     
-    letter-spacing: 4px;
-    /*font-size: 280%;*/
-    
-}
-
-h3 {
-    letter-spacing: 4px;
-    /*font-size: 200%; */
 }
 
 #logo {
@@ -49,7 +42,7 @@ h3 {
     font-size: 280%;
 }
 
-/* ---nav bar ---*/
+/* ---nav bar --- inspired by love running --*/
 
 #menu {
     letter-spacing: 4px;
@@ -70,7 +63,7 @@ h3 {
     border-bottom: 1px solid #3a3a3a
 }
 
-/* ---hero image--- */
+/* ---hero image--- inspired by love running */
 
 #hero-image {
     width: 100%;
@@ -110,14 +103,29 @@ h3 {
     list-style: none;
 }
 
-/*---youtube video---*/
+/*---youtube video--- credit six minutes smarter*/
+
+.youtube {
+    width: 100%;
+    max-width: 800px;
+    margin: 3em auto;
+}
 
 .youtube-container {
-    text-align: center;
-    margin-top: 10px;
-    height: 400px;
-    display: flex;
-    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    height: 0;
+    position: relative;
+    padding-bottom: 56.25%;
+}
+
+.youtube-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
 }
 
 /* ---timetable ---*/
@@ -280,3 +288,9 @@ footer {
     color: #8b867a;
 }
 
+/* media queries */
+
+/* for larger to medium screens */
+@media screen and (max-width: 1200px) {
+    
+}
