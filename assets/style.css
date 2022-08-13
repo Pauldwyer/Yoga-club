@@ -298,13 +298,13 @@ footer {
     text-align: center;
     font-size: 100%;
     background-color: #8b867a;
-    color: #fafafa;
+    color: #112A46;
     display: block;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #8b867a;
+    background-color: #112A46;
+    color: #fafafa;
 }
 
 /* media queries */
