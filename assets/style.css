@@ -83,7 +83,7 @@ h2 {
 }
 
 #about-us p {
-    padding: 5px;
+    padding: 10px;
 }
 
 /* ---types of yoga we teach--- */
@@ -91,6 +91,8 @@ h2 {
 #yoga-types {
     text-align: center;
     margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .type-container {
@@ -136,7 +138,7 @@ h2 {
     max-width: 100%;
 }
 
-/* ---timetable ---*/
+/* ---timetable --- credit to love running ---*/
 
 #class-times {
     margin-top: 25px;
@@ -148,14 +150,21 @@ h2 {
 
 .times-container {
     background-color: #e4be9e;
+    background-position: center;
     width: 80%;
+    overflow: hidden;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
 }
 
-.times-container > div {
+.times-container div {
+    width: 25%;
+    height: 150px;
+    float: left;
     font-size: 80%;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #112A46;
+    box-sizing: border-box;
 }
 
 /* ---tutorials--- */
