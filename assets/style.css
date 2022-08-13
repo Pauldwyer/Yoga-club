@@ -345,13 +345,12 @@ footer {
     .times-container div {
         font-size: 90%;
         width: 100%;
+        text-align: center;
     }
 
     .type-container>div {
         width: auto;
         height: auto;
-       
-        
     }
     
 }
