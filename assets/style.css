@@ -154,20 +154,20 @@ h2 {
     width: 80%;
     overflow: hidden;
     margin: auto;
+    
 }
 
 .times-container div {
     width: 25%;
-    height: 150px;
+    
     float: left;
-    font-size: 80%;
-    padding: 10px;
+    padding: 5px;
     text-align: left;
     border: 1px solid #112A46;
     box-sizing: border-box;
 }
 
-/* ---tutorials--- */
+/* ---tutorials--- credit to w3 schools ---*/
 .container {
     position: relative;
     width: 100%;
@@ -321,12 +321,30 @@ footer {
         margin-top: 10px;
     }
 
+    .times-container div {
+        font-size: 70%;
+        
+    }
+
 }
 
 @media screen and (max-width: 800px) {
     
     #photos {
         column-count: 2;
+    }
+    
+}
+
+@media screen and (max-width: 400px) {
+    
+    #photos {
+        column-count: 1;
+    }
+    
+    .times-container div {
+        font-size: 90%;
+        width: 100%;
     }
     
 }
