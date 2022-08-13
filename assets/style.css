@@ -66,8 +66,8 @@ h2 {
 
 #hero-image {
     width: 100%;
-    height: 800px;
-    background: url(https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_747/v1660407818/Duncannon%20Yoga%20Club/STUDIO_VIEW_01_roaqdj.png) no-repeat center center;
+    height: 600px;
+    background: url(https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_911/v1660407818/Duncannon%20Yoga%20Club/STUDIO_VIEW_01_roaqdj.webp) no-repeat center center;
 }
 
 /* ---about us--- */
@@ -177,7 +177,8 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    height: auto;
+    height: 100%;
+    max-width: fit-content;
     transition: .5s ease;
     backface-visibility: hidden;
 }
@@ -204,9 +205,9 @@ h2 {
 .text {
     background-color: #3a3a3a;
     color: white;
-    font-size: 16px;
-    padding: 16px 32px;
+    padding: 5px 5px;
 }
+
 
 /* ---footer ---credit to love running */
 
@@ -336,7 +337,7 @@ footer {
 
 /* for small screens */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
     
     #photos {
         column-count: 1;
@@ -352,5 +353,10 @@ footer {
         width: auto;
         height: auto;
     }
-    
+
+    .middle .text {
+        font-size: 65%;
+        width: 100%;
+    }
+
 }
