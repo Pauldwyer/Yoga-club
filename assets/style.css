@@ -32,8 +32,7 @@ hr {
 h1,
 h2 {
     letter-spacing: 2px;
-    font-size: 1.5em;
-
+    font-size: 1.5rem;
 }
 
 #logo {
@@ -159,7 +158,6 @@ h2 {
 
 .times-container div {
     width: 25%;
-    
     float: left;
     padding: 5px;
     text-align: left;
@@ -315,7 +313,7 @@ footer {
 @media screen and (max-width: 800px) {
     .type-container {
         flex-direction: column;
-        height: 550px;
+        height: auto;
         align-items: center;
         width: 100%;
         margin-top: 10px;
@@ -336,6 +334,8 @@ footer {
     
 }
 
+/* for small screens */
+
 @media screen and (max-width: 400px) {
     
     #photos {
@@ -345,6 +345,13 @@ footer {
     .times-container div {
         font-size: 90%;
         width: 100%;
+    }
+
+    .type-container>div {
+        width: auto;
+        height: auto;
+       
+        
     }
     
 }
