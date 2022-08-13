@@ -78,11 +78,19 @@ h2 {
 
 }
 
+#about-us h2 {
+    font-size: 2em;
+}
+
+#about-us p {
+    padding: 5px;
+}
+
 /* ---types of yoga we teach--- */
 
 #yoga-types {
     text-align: center;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 .type-container {
@@ -148,7 +156,6 @@ h2 {
 
 .times-container > div {
     font-size: 80%;
-    padding: 2px;
 }
 
 /* ---tutorials--- */
