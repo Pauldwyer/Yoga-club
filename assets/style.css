@@ -299,6 +299,11 @@ footer {
     border-radius: 2px;
 }
 
+textarea {
+    font-family: inherit;
+    font-size: inherit;
+}
+
 .text-input:hover {
     border-color: #8b867a;
 }
