@@ -68,7 +68,7 @@ h2 {
 #hero-image {
     width: 100%;
     height: 600px;
-    background: url(https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_911/v1660407818/Duncannon%20Yoga%20Club/STUDIO_VIEW_01_roaqdj.webp) no-repeat center center;
+    background: url(https://res.cloudinary.com/dwswn1jvq/image/upload/v1660407553/STUDIO_VIEW_01_r6qz4m.webp) no-repeat center center;
 }
 
 /* ---about us--- */
@@ -136,6 +136,12 @@ h2 {
     width: 100%;
     height: 100%;
     max-width: 100%;
+}
+
+/*--- map ---*/
+#map {
+    width: 100%;
+    height: 450px;
 }
 
 /* ---timetable --- credit to love running ---*/
