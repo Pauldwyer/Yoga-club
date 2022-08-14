@@ -86,7 +86,7 @@ h2 {
 }
 
 #about-us p {
-    padding: 10px;
+    padding: 0 10px;
 }
 
 /* ---types of yoga we teach--- */
@@ -109,6 +109,7 @@ h2 {
 .type-container>div {
     width: 350px;
     height: 250px;
+    
 }
 
 #yoga-types ul {
