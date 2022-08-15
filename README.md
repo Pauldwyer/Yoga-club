@@ -19,7 +19,7 @@ Please find below details of every feature on the website.
 - __The landing page image__
 
   - The landing includes a photograph which shows a beach, yoga mat and studio windows.
-  - This section introduces the user to Love Running with an eye catching view to catch the users imagination.
+  - This section introduces the user to Duncannon Yoga Club with an eye catching view to catch the users imagination.
 
 ![Landing Page](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_685/v1660522566/Duncannon%20Yoga%20Club/landing-page_m80bac.png)
 
@@ -49,7 +49,7 @@ Please find below details of every feature on the website.
   - This section has a youtube video from the famous yogi Sadhguru. 
   - This video teachs the user about yoga.
 
-![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660524107/Duncannon%20Yoga%20Club/youtube_jsjx0p.png)
+![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660524107/Duncannon%20Yoga%20Club/youtube_jsjx0p.png)
 
 - __Gallery__
 
