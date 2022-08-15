@@ -14,7 +14,7 @@ Please find below details of every feature on the website.
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
-![Nav Bar](assets/images/nav-bar.png)
+![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660522564/Duncannon%20Yoga%20Club/nav-bar_i3tzmc.png)
 
 - __The landing page image__
 
@@ -35,9 +35,9 @@ Please find below details of every feature on the website.
   - This section will allow the user to see exactly what types of yoga we teach.
   - This section will allow users who are new to yoga to learn about the 3 styles we teach.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](assets/images/yoga-types.png)
 
-- __The Footer__ 
+- __Class Timtable__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
