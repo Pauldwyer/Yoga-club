@@ -178,7 +178,6 @@ Alot of inspiration was taken from the Love Running Project. Namely nav bar, foo
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Favicon was generated using [Favicon Generator](https://favicon.io/favicon-generator/)
 - Descriptions of Yoga types came from [Wikipedia](https://wikipedia.com)
-- The text for the Home page was taken from Wikipedia Article A
 - Tutorial instructions came from [YogaJournal](https://www.yogajournal.com/poses/cobra-pose-2/) [YogaBasics](https://www.yogabasics.com/) and [Ekhartyoga](https://www.ekhartyoga.com/)
 - The icons in the index and footer were taken from [Font Awesome](https://fontawesome.com/)
 

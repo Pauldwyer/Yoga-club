@@ -176,6 +176,11 @@ h2 {
 }
 
 /* ---tutorials--- credit to w3 schools ---*/
+
+#tutorials p {
+    padding: 5px;
+}
+
 .container {
     position: relative;
     width: 100%;
