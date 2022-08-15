@@ -2,39 +2,38 @@
 
 Duncannon Yoga Club was founded by a group of like-minded people that want to share their love of Yoga with everybody. The site was set up give information about the club and also have some tutorials for people to practice yoga at home. The site is targeted towards any yoga practitioners or would be practitioners in Wexford and surrounding areas.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](assets/images/am-i-responsive.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Please find below details of every feature on the website.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](assets/images/nav-bar.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph which shows a beach, yoga mat and studio windows.
+  - This section introduces the user to Love Running with an eye catching view to catch the users imagination.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](assets/images/landing-page.png)
 
-- __Club Ethos Section__
+- __About Us__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About Us section tells the user about the club and see the benefits of joining the club.
+  - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](assets/images/about-us-sec.png)
 
-- __Meetup Times section__
+- __Yoga Type section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to see exactly what types of yoga we teach.
+  - This section will allow users who are new to yoga to learn about the 3 styles we teach.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
