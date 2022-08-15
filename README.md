@@ -2,7 +2,7 @@
 
 Duncannon Yoga Club was founded by a group of like-minded people that want to share their love of Yoga with everybody. The site was set up give information about the club and also have some tutorials for people to practice yoga at home. The site is targeted towards any yoga practitioners or would be practitioners in Wexford and surrounding areas.
 
-![Responsice Mockup](assets/images/am-i-responsive.png)
+![Responsice Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
 
 ## Features 
 
@@ -21,28 +21,35 @@ Please find below details of every feature on the website.
   - The landing includes a photograph which shows a beach, yoga mat and studio windows.
   - This section introduces the user to Love Running with an eye catching view to catch the users imagination.
 
-![Landing Page](assets/images/landing-page.png)
+![Landing Page](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_685/v1660522566/Duncannon%20Yoga%20Club/landing-page_m80bac.png)
 
 - __About Us__
 
   - The About Us section tells the user about the club and see the benefits of joining the club.
   - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
 
-![Club Ethos](assets/images/about-us-sec.png)
+![About Us](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_621/v1660522564/Duncannon%20Yoga%20Club/about-us-sec_gdgiaf.png)
 
 - __Yoga Type section__
 
   - This section will allow the user to see exactly what types of yoga we teach.
   - This section will allow users who are new to yoga to learn about the 3 styles we teach.
 
-![Meetup Times](assets/images/yoga-types.png)
+![Yoga Type](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660522564/Duncannon%20Yoga%20Club/yoga-types_hhpiez.png)
 
 - __Class Timtable__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - This section tells the user the days, times and locations that classes are held. 
+  - This information is valuable to the user.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Class Timetable](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_577/v1660523729/Duncannon%20Yoga%20Club/class-timetable_n0wodr.png)
+
+- __Youtube Video__ 
+
+  - This section has a youtube video from the famous yogi Sadhguru. 
+  - This video teachs the user about yoga.
+
+![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660524107/Duncannon%20Yoga%20Club/youtube_jsjx0p.png)
 
 - __Gallery__
 
