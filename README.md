@@ -165,39 +165,25 @@ The live link can be found here - https://pauldwyer.github.io/Yoga-club/
 
 ## Credits 
 
+Alot of inspiration was taken from the Love Running Project. Namely nav bar, footer and gallery.
 
+[Six Minutes Smarter](https://www.youtube.com/c/RalphPhillips73) tutorial for embedding a responsive youtube video.
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+[w3schools](https://www.w3schools.com/html/default.asp) code for the tutorials page and timetable was taken from w3schools.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+[Favicon Generator](https://favicon.io/favicon-generator/) Code to embed favicon came from Favicon Generator.
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Favicon was generated using [Favicon Generator](https://favicon.io/favicon-generator/)
+- Descriptions of Yoga types came from [Wikipedia](https://wikipedia.com)
+- The text for the Home page was taken from Wikipedia Article A
+- Tutorial instructions came from [YogaJournal](https://www.yogajournal.com/poses/cobra-pose-2/) [YogaBasics](https://www.yogabasics.com/) and [Ekhartyoga](https://www.ekhartyoga.com/)
+- The icons in the index and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- [Google Font](https://fonts.google.com/specimen/Hind+Siliguri?query=hind) Hind was chosent for this project with a back up of Sans-Serif.
+- [Pixabay](https://pixabay.com/) [Pexels]{https://www.pexels.com/} [Pxhere](https://pxhere.com) These free image sites was used for images from this project.
+- [Couldinary](https://cloudinary.com/) was used to host some of the pictures for this project.
+- [Coolors](https://coolors.co/) Was used to generate the colour paletteand to decide font colour to create a good contrast between background and text.
