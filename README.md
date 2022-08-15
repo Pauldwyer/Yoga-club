@@ -89,43 +89,66 @@ Please find below details of every feature on the website.
 
 ### Features Left to Implement
 
-- Add a section with an introduction to our yoga teachers.
+- Add a section with an introduction to our yoga teachers and what they specialise in.
+- Add a section with pricing information. Also, a membership model.
+- Add a blog section
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Throughout the development of the project, code was regularly tested using Chrome developer tools and I also made sure that it passed all relevant tests like W3C validator and Jigsaw.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+List of devices that the website was tested on:
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- iPhone SE
+- iPhone XR
+- iPhone 12 Pro
+- Pixel 5
+- Samsung Galaxy S8
+- Samsung Galaxy S20 Ultra
+- Samsung Galaxy A51/71
+- Samsung Galaxy A52 5g
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+Nav bar and social media links are all working as intended on Edge, Chrome, Opera and Mozilla Firefox.
 
 ### Validator Testing 
 
+During W3C validator testing i had a few issues with the following
+- Sections without headings.
+- Incorrect label on contact form.
+
+The above issues were fixed. See below confirmation.
+
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - Index no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2F)
+  - Gallery page no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2Fgallery.html)
+  - Tutorials page no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2Ftutorials.html)
+  - Contact-us page no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2Fcontact-us.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2F&usermedium=all&vextwarning=&warning=1)
+
+- __Lighthouse__
+
+
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- In the tutorials page on small screen sizes the overlay text will stretch out of the image box. I havent found a fix for this yet.
+
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
+  - In settings click the Pages link in the left side bar
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://pauldwyer.github.io/Yoga-club/
 
 
 ## Credits 
+
+
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
