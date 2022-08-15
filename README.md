@@ -51,26 +51,45 @@ Please find below details of every feature on the website.
 
 ![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660524107/Duncannon%20Yoga%20Club/youtube_jsjx0p.png)
 
+- __Map__
+
+  - This feature is a google map embedded into the webpage and allows the user to get a direct link to the directions. 
+  
+
+![Map](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_590/v1660570961/Duncannon%20Yoga%20Club/duncannon-map_yc0un9.png)
+
+- __Footer__
+
+  - The footer section includes address, phone number and links to the relevant social media sites for Dunncanon Yoga Club. The links open to a new tab.
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  
+
+![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660571701/Duncannon%20Yoga%20Club/footer_zdbtum.png)
+
+- __Tutorials__
+
+  - The Tutorials page will provide the user with images and instructions for doing basic begineer poses.
+  - This section has images of a person doing a yoga pose and when the user clicks/hover on the image it will show the instructions.
+
+![Tutorials](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1_fr6edr.png)
+![Tutorials-overlay](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1-overlay_qlh4y3.png)
+
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see what classes, the beach and surrounding area are like.
+  - This section is valuable to the user as they will be able to easily see how secenic and serene the area is and how its ideal for some mindful relaxation. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_651/v1660574263/Duncannon%20Yoga%20Club/gallery_j6doev.png)
 
-- __The Sign Up Page__
+- __Contact Us Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to contact Duncannon yoga Club to start their journey with the community. The user will be able to submit their name, email, phone number and ask a question. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Contact Us](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660574693/Duncannon%20Yoga%20Club/contact-us_wxzbi3.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- Add a section with an introduction to our yoga teachers.
 
 ## Testing 
 
