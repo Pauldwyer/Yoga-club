@@ -128,6 +128,23 @@ The above issues were fixed. See below confirmation.
 
 - __Lighthouse__
 
+  - Index Mobile
+
+  ![Index lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584224/Duncannon%20Yoga%20Club/index-lighthouse_ibske2.png)
+
+  - Tutorials Mobile
+
+  ![Tutorials lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584394/Duncannon%20Yoga%20Club/tutorials-lighthouse_n27dfa.png)
+
+  - Gallery Mobile
+
+  ![Gallery lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584537/Duncannon%20Yoga%20Club/gallery-lighthouse_yyqaom.png)
+
+  - Contact-Us Mobile
+
+  ![Contact-us lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584583/Duncannon%20Yoga%20Club/contact-us-lighthouse_csfqoh.png)
+
+
 
 
 ### Unfixed Bugs
