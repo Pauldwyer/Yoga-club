@@ -87,7 +87,7 @@ Please find below details of every feature on the website.
 
 ![Contact Us](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660574693/Duncannon%20Yoga%20Club/contact-us_wxzbi3.png)
 
-### Features Left to Implement
+### Future Features
 
 - Add a section with an introduction to our yoga teachers and what they specialise in.
 - Add a section with pricing information. Also, a membership model.
