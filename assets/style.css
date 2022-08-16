@@ -54,8 +54,8 @@ h2 {
     margin: 10px;
     padding: 0 5px;
     font-weight: bold;
-    
-    
+
+
 }
 
 #menu a:hover {
@@ -163,7 +163,7 @@ h2 {
     width: 80%;
     overflow: hidden;
     margin: auto;
-    
+
 }
 
 .times-container div {
@@ -341,29 +341,34 @@ textarea {
         margin-top: 10px;
     }
 
+    .type-container div ul {
+        padding: 10px;
+        margin: 10px;
+    }
+
     .times-container div {
         font-size: 90%;
-        
+
     }
 
 }
 
 @media screen and (max-width: 800px) {
-    
+
     #photos {
         column-count: 2;
     }
-    
+
 }
 
 /* for small screens */
 
 @media screen and (max-width: 450px) {
-    
+
     #photos {
         column-count: 1;
     }
-    
+
     .times-container div {
         font-size: 90%;
         width: 100%;
@@ -373,6 +378,11 @@ textarea {
     .type-container>div {
         width: auto;
         height: auto;
+    }
+
+    .type-container div ul {
+        padding: 10px;
+        margin: 10px;
     }
 
     .middle .text {
