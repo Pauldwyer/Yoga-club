@@ -4,9 +4,14 @@ Duncannon Yoga Club was founded by a group of like-minded people that want to sh
 
 The site was built as my portfolio project 1 for my course in Full Stack Software Development with the Code Institute.
 
-Link to the live site ![Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
+Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
 ![Responsice Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
+
+## Technology Used
+
+The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
+Since the first two modules are HTML and CSS i decided to build the project only with these two programming languages primarily
 
 ## Features 
 
@@ -177,6 +182,8 @@ Alot of inspiration was taken from the Love Running Project. Namely nav bar, foo
 
 [Favicon Generator](https://favicon.io/favicon-generator/) Code to embed favicon came from Favicon Generator.
 
+[Flexbox Frogy](https://flexboxfroggy.com/) this game thought me how to use flex box.
+
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
@@ -187,6 +194,7 @@ Alot of inspiration was taken from the Love Running Project. Namely nav bar, foo
 
 ### Media
 - [Google Font](https://fonts.google.com/specimen/Hind+Siliguri?query=hind) Hind was chosent for this project with a back up of Sans-Serif.
-- [Pixabay](https://pixabay.com/) [Pexels]{https://www.pexels.com/} [Pxhere](https://pxhere.com) These free image sites was used for images from this project.
+- [Pixabay](https://pixabay.com/) [Pexels](https://www.pexels.com/) [Pxhere](https://pxhere.com) These free image sites was used for images from this project.
 - [Couldinary](https://cloudinary.com/) was used to host some of the pictures for this project.
 - [Coolors](https://coolors.co/) Was used to generate the colour paletteand to decide font colour to create a good contrast between background and text.
+- [Am I Responsive](https://ui.dev/amiresponsive) was used to generate the various screen sizes screen shot at the top of the readme.
