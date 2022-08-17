@@ -209,6 +209,7 @@ A lot  of inspiration was taken from the Love Running Project. Namely nav bar, f
 ### Media
 - [Google Font](https://fonts.google.com/specimen/Hind+Siliguri?query=hind) Hind was chosen  for this project with a back up of Sans-Serif.
 - [Pixabay](https://pixabay.com/) [Pexels](https://www.pexels.com/) [Pxhere](https://pxhere.com) These free image sites were used for images for this project.
-- [Couldinary](https://cloudinary.com/) was used to host some of the pictures for this project.
+- [Couldinary](https://cloudinary.com/) Was used to host some of the pictures for this project.
 - [Coolors](https://coolors.co/) Was used to generate the colour palette and to decide font colour to create a good contrast between background colour and text.
-- [Am I Responsive](https://ui.dev/amiresponsive) was used to generate the various screen sizes screen shot at the top of the readme.
+- [Am I Responsive](https://ui.dev/amiresponsive) Was used to generate the various screen sizes screen shot at the top of the readme.
+- [Font Awesom](https://fontawesome.com/) Was used for Yin Yang icons throughout the index page and social media icons in the footer.
