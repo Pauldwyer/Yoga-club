@@ -130,7 +130,7 @@ The above issues were fixed. See below confirmation.
 
   - Index Mobile
 
-  ![Index lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584224/Duncannon%20Yoga%20Club/index-lighthouse_ibske2.png)
+  ![Index lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651812/Duncannon%20Yoga%20Club/README/res-console.cloudinary_dkwzet.png)
 
   - Tutorials Mobile
 
