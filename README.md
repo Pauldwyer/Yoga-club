@@ -11,7 +11,21 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 ## Technology Used
 
 The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
-Since the first two modules are HTML and CSS i decided to build the project only with these two programming languages primarily
+Since the first two modules are HTML and CSS i decided to build the project only with these two programming languages primarily.
+
+  - __HTML5__
+
+
+  - __CSS__
+
+
+  - __Git Pod__
+
+
+  - __Git Hub__
+
+
+  - __Balsamiq__
 
 ## Features 
 
@@ -25,7 +39,7 @@ Please find below details of every feature on the website.
 
 ![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651835/Duncannon%20Yoga%20Club/README/res-console.cloudinary_hxg8bq.png)
 
-- __The landing page image__
+- __The Landing Page Image__
 
   - The landing includes a photograph which shows a beach, yoga mat and studio windows.
   - This section introduces the user to Duncannon Yoga Club with an eye catching view to catch the users imagination.
@@ -39,7 +53,7 @@ Please find below details of every feature on the website.
 
 ![About Us](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_621/v1660522564/Duncannon%20Yoga%20Club/about-us-sec_gdgiaf.png)
 
-- __Yoga Type section__
+- __Yoga Type Section__
 
   - This section will allow the user to see exactly what types of yoga we teach.
   - This section will allow users who are new to yoga to learn about the 3 styles we teach.
