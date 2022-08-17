@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
 
+/*---general css rules ---*/
+
 * {
     margin: 0;
     padding: 0;
@@ -89,7 +91,7 @@ h2 {
     padding: 0 10px;
 }
 
-/* ---types of yoga we teach--- */
+/* ---types of yoga we teach--- inspired by flex froggy */
 
 #yoga-types {
     text-align: center;
@@ -350,10 +352,6 @@ textarea {
         font-size: 90%;
 
     }
-
-}
-
-@media screen and (max-width: 800px) {
 
     #photos {
         column-count: 2;
