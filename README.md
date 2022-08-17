@@ -1,17 +1,17 @@
 # Duncannon Yoga Club
 
-Duncannon Yoga Club was founded by a group of like-minded people that want to share their love of Yoga with everybody. The site was set up give information about the club and also have some tutorials for people to practice yoga at home. The site is targeted towards any yoga practitioners or would be practitioners in Wexford and surrounding areas.
+Duncannon Yoga Club was founded by a group of like-minded people that want to share their love of Yoga with everybody. The site was set up give information about the club and have some tutorials for people to practice yoga at home. The site is targeted towards any yoga practitioners or would be practitioners in Wexford and surrounding areas.
 
 The site was built as my portfolio project 1 for my course in Full Stack Software Development with the Code Institute.
 
 Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
-![Responsice Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
+![Responsive Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
 
 ## Technology Used
 
 The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
-Since the first two modules are HTML and CSS i decided to build the project only with these two programming languages primarily.
+Since the first two modules are HTML and CSS I decided to build the project primarily with these two programming languages.
 
   - __HTML5__
 
@@ -172,7 +172,7 @@ The above issues were fixed. See below confirmation.
 
 ### Unfixed Bugs
 
-- In the tutorials page on small screen sizes the overlay text will stretch out of the image box. I havent found a fix for this yet.
+- In the tutorials page on small screen sizes the overlay text will stretch out of the image box. I haven’t found a fix for this yet.
 
 
 ## Deployment
@@ -188,7 +188,7 @@ The live link can be found here - https://pauldwyer.github.io/Yoga-club/
 
 ## Credits 
 
-Alot of inspiration was taken from the Love Running Project. Namely nav bar, footer and gallery.
+A lot  of inspiration was taken from the Love Running Project. Namely nav bar, footer and gallery.
 
 [Six Minutes Smarter](https://www.youtube.com/c/RalphPhillips73) tutorial for embedding a responsive youtube video.
 
@@ -207,8 +207,8 @@ Alot of inspiration was taken from the Love Running Project. Namely nav bar, foo
 - The icons in the index and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
-- [Google Font](https://fonts.google.com/specimen/Hind+Siliguri?query=hind) Hind was chosent for this project with a back up of Sans-Serif.
-- [Pixabay](https://pixabay.com/) [Pexels](https://www.pexels.com/) [Pxhere](https://pxhere.com) These free image sites was used for images from this project.
+- [Google Font](https://fonts.google.com/specimen/Hind+Siliguri?query=hind) Hind was chosen  for this project with a back up of Sans-Serif.
+- [Pixabay](https://pixabay.com/) [Pexels](https://www.pexels.com/) [Pxhere](https://pxhere.com) These free image sites were used for images for this project.
 - [Couldinary](https://cloudinary.com/) was used to host some of the pictures for this project.
-- [Coolors](https://coolors.co/) Was used to generate the colour paletteand to decide font colour to create a good contrast between background and text.
+- [Coolors](https://coolors.co/) Was used to generate the colour palette and to decide font colour to create a good contrast between background colour and text.
 - [Am I Responsive](https://ui.dev/amiresponsive) was used to generate the various screen sizes screen shot at the top of the readme.
