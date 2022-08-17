@@ -2,6 +2,10 @@
 
 Duncannon Yoga Club was founded by a group of like-minded people that want to share their love of Yoga with everybody. The site was set up give information about the club and also have some tutorials for people to practice yoga at home. The site is targeted towards any yoga practitioners or would be practitioners in Wexford and surrounding areas.
 
+The site was built as my portfolio project 1 for my course in Full Stack Software Development with the Code Institute.
+
+Link to the live site ![Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
+
 ![Responsice Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
 
 ## Features 
@@ -14,7 +18,7 @@ Please find below details of every feature on the website.
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
-![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660522564/Duncannon%20Yoga%20Club/nav-bar_i3tzmc.png)
+![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651835/Duncannon%20Yoga%20Club/README/res-console.cloudinary_hxg8bq.png)
 
 - __The landing page image__
 
@@ -49,7 +53,7 @@ Please find below details of every feature on the website.
   - This section has a youtube video from the famous yogi Sadhguru. 
   - This video teachs the user about yoga.
 
-![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660524107/Duncannon%20Yoga%20Club/youtube_jsjx0p.png)
+![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651828/Duncannon%20Yoga%20Club/README/res-console.cloudinary_wjf3yr.png)
 
 - __Map__
 
@@ -64,7 +68,7 @@ Please find below details of every feature on the website.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   
 
-![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660571701/Duncannon%20Yoga%20Club/footer_zdbtum.png)
+![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651825/Duncannon%20Yoga%20Club/README/res-console.cloudinary_lxeccv.png)
 
 - __Tutorials__
 
