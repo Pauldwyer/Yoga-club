@@ -17,13 +17,13 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 ### User Stories
 
+- As a visiting user, I want to easily navigate between the different pages of the site.
 - As a visiting user, I want to know the values to club stand for.
 - As a visiting user, I want to see supporting images of classes.
 - As a visiting user, I want to learn about different types of Yoga.
 - As a visiting user, I want to have the ability to contact the the site for more information.
 - As a visiting user, I want to be able to access the clubs social media through the site.
 - As a visiting user, I want to know the address of the club and have a interactive google map available.
-- As a visiting user, I want to easily navigate between the different pages of the site.
 
 
 ## Features 
@@ -39,16 +39,17 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 - __The Landing Page Image__
 
-  - The landing includes a photograph which shows a beach, yoga mat and studio windows.
+  - The landing page includes a photograph which shows a beach, the sea and people in the middle of a class.
+  - The Picture shows everything the club is about, Yoga, sand and sea.
   - This section introduces the user to Duncannon Yoga Club with an eye catching view to catch the users imagination.
 
 
-![Landing Page](./assets/images/landing-page.png)
+![Landing Page](./assets/images/landing-page-2.png)
 
 - __About Us__
 
   - The About Us section tells the user about the club and the benefits of joining the club.
-  - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
+  - The user will see the value of signing up. This should encourage the user to look futher into the site and consider yoga as their form of exercise. 
 
 
 ![About Us](./assets/images/about-us-sec.png)
@@ -126,23 +127,26 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 ## Technology Used
 
-  - [HTML5](https://www.w3schools.com/html/)
+  - [HTML5](https://www.w3schools.com/html/) was used to build the foundtation of the website.
 
 
-  - [CSS](https://www.w3schools.com/css/css_intro.asp)
+  - [CSS](https://www.w3schools.com/css/css_intro.asp) was used to style the website.
 
 
-  - [GitPod](https://gitpod.io/)
+  - [GitPod](https://gitpod.io/) was used to write the code that built the website.
 
 
-  - [GitHub](https://github.com/)
+  - [GitHub](https://github.com/) was used to host the repository, version control and deploy the website.
+
+
+  - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used to test the site throughout development.
 
 
 ## Testing 
 
 Throughout the development of the project, code was regularly tested using Chrome developer tools and I also made sure that it passed all relevant tests like W3C validator and Jigsaw.
 
-List of devices that the website was tested on:
+List of devices that the website was tested on for responsiveness through chrome developer tools:
 
 - iPhone SE
 - iPhone XR
@@ -153,12 +157,24 @@ List of devices that the website was tested on:
 - Samsung Galaxy A51/71
 - Samsung Galaxy A52 5g
 
-Nav bar and social media links are all working as intended on Edge, Chrome, Opera and Mozilla Firefox.
+### Manual Testing
+
+- The site was tested manually on Google chrome on desktop and android mobile.
+- Goal of the testing was to check if nav bar and footer are working as intended.
+- Test description, steps, expected results and results logged below. 
+
+![Manual Testing File](./assets/images/manual-testing.png)
+
+- The site was tested manually on Mozilla Firefox and Opera
+- Goal of the testing was to check if nav bar and footer are working as intended.
+- Test description, steps, expected results and results logged below. 
+
+![Manual Testing File](./assets/images/manual-testing-2.png)
 
 
 ### Validator Testing 
 
-During W3C validator testing i had a few issues with the following
+During W3C validator testing i had a few issues with the following:
 - Sections without headings.
 - Incorrect label on contact form.
 
@@ -194,7 +210,8 @@ The above issues were fixed. See below confirmation.
 
 ### Unfixed Bugs
 
-- In the tutorials page on small screen sizes the overlay text will stretch out of the image box. I haven’t found a fix for this yet.
+- In the tutorials page on small screen sizes below 300px and below the overlay text will stretch out of the image box. I haven’t found a fix for this yet.
+  - Every other screen size I tested the website on worked well and I am willing to leave this bug unresolved for the time being.
 
 
 ## Deployment
