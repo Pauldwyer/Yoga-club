@@ -127,19 +127,19 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 ## Technology Used
 
-  - [HTML5](https://www.w3schools.com/html/) was used to build the foundtation of the website.
+  - [HTML5](https://www.w3schools.com/html/)
 
 
-  - [CSS](https://www.w3schools.com/css/css_intro.asp) was used to style the website.
+  - [CSS](https://www.w3schools.com/css/css_intro.asp)
 
 
-  - [GitPod](https://gitpod.io/) was used to write the code that built the website.
+  - [GitPod](https://gitpod.io/)
 
 
-  - [GitHub](https://github.com/) was used to host the repository, version control and deploy the website.
+  - [GitHub](https://github.com/)
 
 
-  - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used to test the site throughout development.
+  - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
 
 
 ## Testing 
