@@ -6,7 +6,7 @@ The site was built as my portfolio project 1 for my course in Full Stack Softwar
 
 Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
-![Responsive Mockup](./assets/images/am-i-responsive.png)
+![Responsive Mockup](./assets/images/responsive-mock-up.png)
 
 ## UX 
 
