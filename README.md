@@ -4,32 +4,13 @@ Duncannon Yoga Club was founded by a group of like-minded people that want to sh
 
 The site was built as my portfolio project 1 for my course in Full Stack Software Development with the Code Institute.
 
+The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
+
 Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
 ![Responsive Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
 
-## Technology Used
-
-The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
-Since the first two modules are HTML and CSS I decided to build the project primarily with these two programming languages.
-
-  - __HTML5__
-
-
-  - __CSS__
-
-
-  - __Git Pod__
-
-
-  - __Git Hub__
-
-
-  - __Balsamiq__
-
 ## Features 
-
-Please find below details of every feature on the website.
 
 ### Existing Features
 
@@ -48,7 +29,7 @@ Please find below details of every feature on the website.
 
 - __About Us__
 
-  - The About Us section tells the user about the club and see the benefits of joining the club.
+  - The About Us section tells the user about the club and the benefits of joining the club.
   - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
 
 ![About Us](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_621/v1660522564/Duncannon%20Yoga%20Club/about-us-sec_gdgiaf.png)
@@ -63,14 +44,13 @@ Please find below details of every feature on the website.
 - __Class Timtable__ 
 
   - This section tells the user the days, times and locations that classes are held. 
-  - This information is valuable to the user.
 
 ![Class Timetable](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_577/v1660523729/Duncannon%20Yoga%20Club/class-timetable_n0wodr.png)
 
 - __Youtube Video__ 
 
   - This section has a youtube video from the famous yogi Sadhguru. 
-  - This video teachs the user about yoga.
+  - This video teaches the user about the principles of yoga.-
 
 ![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651828/Duncannon%20Yoga%20Club/README/res-console.cloudinary_wjf3yr.png)
 
@@ -99,8 +79,8 @@ Please find below details of every feature on the website.
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what classes, the beach and surrounding area are like.
-  - This section is valuable to the user as they will be able to easily see how secenic and serene the area is and how its ideal for some mindful relaxation. 
+  - The gallery will provide the user with supporting images to see what classes, the beach and surrounding area are look like.
+  - This section is valuable to the user as they will be able to easily see how scenic and serene the area is and how it’s ideal for some mindful relaxation. 
 
 ![Gallery](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_651/v1660574263/Duncannon%20Yoga%20Club/gallery_j6doev.png)
 
@@ -115,6 +95,21 @@ Please find below details of every feature on the website.
 - Add a section with an introduction to our yoga teachers and what they specialise in.
 - Add a section with pricing information. Also, a membership model.
 - Add a blog section
+- Make a change to the gallery and make the pictures interactive. When you click a caption can appear.
+
+## Technology Used
+
+  - [HTML5](https://www.w3schools.com/html/)
+
+
+  - [CSS](https://www.w3schools.com/css/css_intro.asp)
+
+
+  - [GitPod](https://gitpod.io/)
+
+
+  - [GitHub]](https://github.com/)
+
 
 ## Testing 
 
@@ -212,4 +207,4 @@ A lot  of inspiration was taken from the Love Running Project. Namely nav bar, f
 - [Couldinary](https://cloudinary.com/) Was used to host some of the pictures for this project.
 - [Coolors](https://coolors.co/) Was used to generate the colour palette and to decide font colour to create a good contrast between background colour and text.
 - [Am I Responsive](https://ui.dev/amiresponsive) Was used to generate the various screen sizes screen shot at the top of the readme.
-- [Font Awesom](https://fontawesome.com/) Was used for Yin Yang icons throughout the index page and social media icons in the footer.
+
