@@ -6,7 +6,7 @@ The site was built as my portfolio project 1 for my course in Full Stack Softwar
 
 Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
-![Responsive Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
+![Responsive Mockup](./assets/images/am-i-responsive.png)
 
 ## UX 
 
@@ -32,10 +32,10 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the fully responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
 
-![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651835/Duncannon%20Yoga%20Club/README/res-console.cloudinary_hxg8bq.png)
+![Nav Bar](./assets/images/nav-bar.png)
 
 - __The Landing Page Image__
 
@@ -43,7 +43,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - This section introduces the user to Duncannon Yoga Club with an eye catching view to catch the users imagination.
 
 
-![Landing Page](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_685/v1660522566/Duncannon%20Yoga%20Club/landing-page_m80bac.png)
+![Landing Page](./assets/images/landing-page.png)
 
 - __About Us__
 
@@ -51,7 +51,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
 
 
-![About Us](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_621/v1660522564/Duncannon%20Yoga%20Club/about-us-sec_gdgiaf.png)
+![About Us](./assets/images/about-us-sec.png)
 
 - __Yoga Type Section__
 
@@ -59,14 +59,14 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - This section will allow users who are new to yoga to learn about the 3 styles we teach.
 
 
-![Yoga Type](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660522564/Duncannon%20Yoga%20Club/yoga-types_hhpiez.png)
+![Yoga Type](./assets/images/yoga-types.png)
 
 - __Class Timtable__ 
 
   - This section tells the user the days, times and locations that classes are held. 
 
 
-![Class Timetable](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_577/v1660523729/Duncannon%20Yoga%20Club/class-timetable_n0wodr.png)
+![Class Timetable](./assets/images/class-timetable.png)
 
 - __Youtube Video__ 
 
@@ -74,14 +74,14 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - This video teaches the user about the principles of yoga.-
 
 
-![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651828/Duncannon%20Yoga%20Club/README/res-console.cloudinary_wjf3yr.png)
+![Youtube](./assets/images/youtube.png)
 
 - __Map__
 
   - This feature is a google map embedded into the webpage and allows the user to get a direct link to the directions. 
   
 
-![Map](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_590/v1660570961/Duncannon%20Yoga%20Club/duncannon-map_yc0un9.png)
+![Map](./assets/images/duncannon-map.png)
 
 - __Footer__
 
@@ -89,7 +89,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   
 
-![Footer](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651825/Duncannon%20Yoga%20Club/README/res-console.cloudinary_lxeccv.png)
+![Footer](./assets/images/footer.png)
 
 - __Tutorials__
 
@@ -97,8 +97,8 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - This section has images of a person doing a yoga pose and when the user clicks/hover on the image it will show the instructions.
 
 
-![Tutorials](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1_fr6edr.png)
-![Tutorials-overlay](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1-overlay_qlh4y3.png)
+![Tutorials](./assets/images/yoga-pose-1.png)
+![Tutorials-overlay](./assets/images/yoga-pose-1-overlay.png)
 
 
 - __Gallery__
@@ -106,14 +106,14 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - The gallery will provide the user with supporting images to see what classes, the beach and surrounding area are look like.
   - This section is valuable to the user as they will be able to easily see how scenic and serene the area is and how it’s ideal for some mindful relaxation. 
 
-![Gallery](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_651/v1660574263/Duncannon%20Yoga%20Club/gallery_j6doev.png)
+![Gallery](./assets/images/gallery.png)
 
 
 - __Contact Us Page__
 
   - This page will allow the user to contact Duncannon yoga Club to start their journey with the community. The user will be able to submit their name, email, phone number and ask a question. 
 
-![Contact Us](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660574693/Duncannon%20Yoga%20Club/contact-us_wxzbi3.png)
+![Contact Us](./assets/images/contact-us.png)
 
 
 ### Future Features
@@ -177,19 +177,19 @@ The above issues were fixed. See below confirmation.
 
   - Index Mobile
 
-  ![Index lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651812/Duncannon%20Yoga%20Club/README/res-console.cloudinary_dkwzet.png)
+  ![Index lighthouse results](./assets/images/index-lighthouse.png)
 
   - Tutorials Mobile
 
-  ![Tutorials lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584394/Duncannon%20Yoga%20Club/tutorials-lighthouse_n27dfa.png)
+  ![Tutorials lighthouse results](./assets/images/tutorials-lighthouse.png)
 
   - Gallery Mobile
 
-  ![Gallery lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584537/Duncannon%20Yoga%20Club/gallery-lighthouse_yyqaom.png)
+  ![Gallery lighthouse results](./assets/images/gallery-lighthouse.png)
 
   - Contact-Us Mobile
 
-  ![Contact-us lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584583/Duncannon%20Yoga%20Club/contact-us-lighthouse_csfqoh.png)
+  ![Contact-us lighthouse results](./assets/images/contact-us-lighthouse.png)
 
 
 ### Unfixed Bugs
