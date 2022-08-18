@@ -4,11 +4,27 @@ Duncannon Yoga Club was founded by a group of like-minded people that want to sh
 
 The site was built as my portfolio project 1 for my course in Full Stack Software Development with the Code Institute.
 
-The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
-
 Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-club/index.html)
 
 ![Responsive Mockup](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_620/v1660522565/Duncannon%20Yoga%20Club/am-i-responsive_ma6ghk.png)
+
+## UX 
+
+### Project Goals
+
+- The scope of this project was to build a static front-end site to present useful information to users, using all the technologies that I have learned about so far. 
+- Data is to be presented to help users achieve their goals, e.g. learning about a product/service in which they are interested. The presentation of this data advances the site owner's goals.
+
+### User Stories
+
+- As a visiting user, I want to know the values to club stand for.
+- As a visiting user, I want to see supporting images of classes.
+- As a visiting user, I want to learn about different types of Yoga.
+- As a visiting user, I want to have the ability to contact the the site for more information.
+- As a visiting user, I want to be able to access the clubs social media through the site.
+- As a visiting user, I want to know the address of the club and have a interactive google map available.
+- As a visiting user, I want to easily navigate between the different pages of the site.
+
 
 ## Features 
 
@@ -18,12 +34,14 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Tutorials page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
+
 ![Nav Bar](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651835/Duncannon%20Yoga%20Club/README/res-console.cloudinary_hxg8bq.png)
 
 - __The Landing Page Image__
 
   - The landing includes a photograph which shows a beach, yoga mat and studio windows.
   - This section introduces the user to Duncannon Yoga Club with an eye catching view to catch the users imagination.
+
 
 ![Landing Page](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_685/v1660522566/Duncannon%20Yoga%20Club/landing-page_m80bac.png)
 
@@ -32,6 +50,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - The About Us section tells the user about the club and the benefits of joining the club.
   - The user will see the value of signing up. This should encourage the user to consider yoga as their form of exercise. 
 
+
 ![About Us](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_621/v1660522564/Duncannon%20Yoga%20Club/about-us-sec_gdgiaf.png)
 
 - __Yoga Type Section__
@@ -39,11 +58,13 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - This section will allow the user to see exactly what types of yoga we teach.
   - This section will allow users who are new to yoga to learn about the 3 styles we teach.
 
+
 ![Yoga Type](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_600/v1660522564/Duncannon%20Yoga%20Club/yoga-types_hhpiez.png)
 
 - __Class Timtable__ 
 
   - This section tells the user the days, times and locations that classes are held. 
+
 
 ![Class Timetable](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_577/v1660523729/Duncannon%20Yoga%20Club/class-timetable_n0wodr.png)
 
@@ -51,6 +72,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
   - This section has a youtube video from the famous yogi Sadhguru. 
   - This video teaches the user about the principles of yoga.-
+
 
 ![Youtube](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660651828/Duncannon%20Yoga%20Club/README/res-console.cloudinary_wjf3yr.png)
 
@@ -74,8 +96,10 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - The Tutorials page will provide the user with images and instructions for doing basic begineer poses.
   - This section has images of a person doing a yoga pose and when the user clicks/hover on the image it will show the instructions.
 
+
 ![Tutorials](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1_fr6edr.png)
 ![Tutorials-overlay](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660572908/Duncannon%20Yoga%20Club/yoga-pose-1-overlay_qlh4y3.png)
+
 
 - __Gallery__
 
@@ -84,11 +108,13 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 
 ![Gallery](https://res.cloudinary.com/dwswn1jvq/image/upload/c_scale,w_651/v1660574263/Duncannon%20Yoga%20Club/gallery_j6doev.png)
 
+
 - __Contact Us Page__
 
   - This page will allow the user to contact Duncannon yoga Club to start their journey with the community. The user will be able to submit their name, email, phone number and ask a question. 
 
 ![Contact Us](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660574693/Duncannon%20Yoga%20Club/contact-us_wxzbi3.png)
+
 
 ### Future Features
 
@@ -96,6 +122,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
 - Add a section with pricing information. Also, a membership model.
 - Add a blog section
 - Make a change to the gallery and make the pictures interactive. When you click a caption can appear.
+
 
 ## Technology Used
 
@@ -108,7 +135,7 @@ Link to the live site [Duncannon-Yoga-Club](https://pauldwyer.github.io/Yoga-clu
   - [GitPod](https://gitpod.io/)
 
 
-  - [GitHub]](https://github.com/)
+  - [GitHub](https://github.com/)
 
 
 ## Testing 
@@ -128,6 +155,7 @@ List of devices that the website was tested on:
 
 Nav bar and social media links are all working as intended on Edge, Chrome, Opera and Mozilla Firefox.
 
+
 ### Validator Testing 
 
 During W3C validator testing i had a few issues with the following
@@ -143,6 +171,7 @@ The above issues were fixed. See below confirmation.
   - Contact-us page no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2Fcontact-us.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fpauldwyer.github.io%2FYoga-club%2F&usermedium=all&vextwarning=&warning=1)
+
 
 - __Lighthouse__
 
@@ -161,8 +190,6 @@ The above issues were fixed. See below confirmation.
   - Contact-Us Mobile
 
   ![Contact-us lighthouse results](https://res.cloudinary.com/dwswn1jvq/image/upload/v1660584583/Duncannon%20Yoga%20Club/contact-us-lighthouse_csfqoh.png)
-
-
 
 
 ### Unfixed Bugs
